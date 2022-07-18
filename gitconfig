@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mooresaaron@gmail.com
+	name = Aaron Moores
